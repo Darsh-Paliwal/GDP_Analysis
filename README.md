@@ -1,12 +1,15 @@
 # 🌍 World GDP Analysis (1960–2016)
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Graphs-purple)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-red)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![GitHub stars](https://img.shields.io/github/stars/Darsh-Paliwal/gdp-analysis)
+![GitHub forks](https://img.shields.io/github/forks/Darsh-Paliwal/gdp-analysis)
+![GitHub issues](https://img.shields.io/github/issues/Darsh-Paliwal/gdp-analysis)
 
 ## 📌 Project Overview
 This project analyzes **Global GDP data from 1960 to 2016** using **Python, Pandas, Matplotlib, and Plotly**. The goal of this analysis is to explore **economic growth patterns of countries**, compare GDP trends, and visualize GDP growth over time.
